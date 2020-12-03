@@ -31,7 +31,7 @@
     "@graphql-codegen/cli": "1.17.4",
     "@graphql-codegen/typescript": "1.17.4",
     "@graphql-codegen/typescript-operations": "1.17.4",
-    "graphql": "15.3.0",
+    "graphql": "15.4.0",
     "typescript": "3.9.7"
   },
   "peerDependencies": {
